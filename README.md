@@ -1,6 +1,3 @@
-Here's the reformatted README file for your Dino Project:
-
----
 
 ---
 
